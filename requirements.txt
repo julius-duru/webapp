@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-dotenv
+python-jose
+passlib[bcrypt]
+python-multipart
+requests
+
+uvicorn app.main:app --reload
